@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
 
-def main():
+"""Python3 Class optinial labs"""
 
-        # create a list of anmimals with 3 letter names
-        list1 = ["fox", "fly", "ant", "bee", "cod", "cat", "dog", "yak", "cow", "hen", "koi", "hog", "jay", "kit"]
-        print(list1)
+
+
+def main():
+    """Maon function of list script"""
+
+    # create a list of anmimals with 3 letter names
+    list1 = ["fox", "fly", "ant", "bee", "cod", "cat", "dog", "yak", "cow", "hen", "koi", "hog", "jay", "kit"]
+    print(list1)
 
 main()
