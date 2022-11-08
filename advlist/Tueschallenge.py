@@ -4,7 +4,7 @@
 
 def main():
 
-    # pause the program and wait for the user to provide input
+    # user to provide input
     user_firstname = input("first Name:")
     user_lastname = input("last name:")
     user_favnumber = input("favorite number:")
@@ -13,5 +13,4 @@ def main():
     # display info back to the user.
     print(list1)
 
-# this calls main
 main()
